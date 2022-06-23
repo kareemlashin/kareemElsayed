@@ -15,32 +15,32 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/kareemelsayed887/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npm kareem
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This command line tool can be found at [npm kareem](https://github.com/)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "tech"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            js: ["react", "angular", "vue"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["web Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: [],
+        misc: []
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Building Robots to ease opertations",
@@ -82,13 +82,13 @@ const anmol = {
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
-Tuesday      66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37% 
-Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
-Friday       82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22% 
-Sunday       139 commits    █████░░░░░░░░░░░░░░░░░░░░   20.75%
+Monday       85 commits     █████████████████████████   12.69% 
+Tuesday      66 commits     █████████████████████████   9.85% 
+Wednesday    103 commits    █████████████████████████   15.37% 
+Thursday     93 commits     █████████████████████████   13.88% 
+Friday       82 commits     █████████████████████████   12.24% 
+Saturday     102 commits    █████████████████████████   15.22% 
+Sunday       139 commits    █████████████████████████   20.75%
 
 ```
 
@@ -99,29 +99,27 @@ Sunday       139 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 16 mins        ████████████░░░░░░░░░░░░░   48.62% 
-JSON                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   22.58% 
-Bash                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.39% 
-Shell Script             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.77% 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
+JavaScript               1 hr 16 mins        █████████████████████████   48.62% 
+JSON                     35 mins             █████████████████████████   22.58% 
+HTML                     2 mins              █████████████████████████   1.53%
 
 🔥 Editors: 
-WebStorm                 2 hrs 36 mins       █████████████████████████   99.98% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+WebStorm                 2 hrs 36 mins       ████████████░░░░░░░░░░░░░   99.98% 
+VS Code                  0 secs              ████████████░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Mac                      2 hrs 36 mins       █████████████████████████   100.0%
+windows                      2 hrs 36 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               21 repos            ██████████░░░░░░░░░░░░░░░   41.18% 
-Vue                      8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
-Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
+JavaScript               21 repos            █████████████████████████   41.18% 
+Vue                      8 repos             █████████████████████████   15.69% 
+Angular                  7 repos             █████████████████████████   13.73% 
+React                    4 repos             █████████████████████████   7.84% 
+CSS                      4 repos             █████████████████████████   7.84%
 
 ```
 
